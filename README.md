@@ -23,11 +23,8 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Yeabsira Alemayehu**, a Full-Stack Developer passionate about building modern, responsive, and user-friendly web applications.
-
-I hold a **BSc in Electrical and Computer Engineering (Computer Engineering Stream)** and have completed the **Evangadi Full-Stack Development course**.
-
-I enjoy transforming ideas into practical software solutions, solving problems through code, and continuously improving my development skills.
+Hello! 
+I'm Yeabsira Alemayehu, a Full-Stack Developer with a background in Electrical and Computer Engineering. I enjoy building practical web applications, developing intuitive user interfaces, and connecting frontend experiences with reliable backend systems. I'm continuously strengthening my skills through hands-on projects, collaborative development, and exploring modern web technologies.
 
 - 💻 Interested in frontend and backend development.
 - 🚀 Building projects to strengthen my full-stack skills.
